@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: f9e63a496d82bea4a98fdf6c54fdc925
+timeCreated: 1432918181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_0
+    21300002: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_1
+    21300004: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_2
+    21300006: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_3
+    21300008: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_4
+    21300010: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_5
+    21300012: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_6
+    21300014: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_7
+    21300016: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_8
+    21300018: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_9
+    21300020: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_10
+    21300022: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_11
+    21300024: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_12
+    21300026: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_13
+    21300028: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_14
+    21300030: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_15
+    21300032: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_16
+    21300034: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_17
+    21300036: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_18
+    21300038: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_19
+    21300040: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_20
+    21300042: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_21
+    21300044: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_22
+    21300046: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_23
+    21300048: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_24
+    21300050: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_25
+    21300052: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_26
+    21300054: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_27
+    21300056: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_28
+    21300058: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_29
+    21300060: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_30
+    21300062: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_31
+    21300064: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_32
+    21300066: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_33
+    21300068: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_34
+    21300070: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_35
+    21300072: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_36
+    21300074: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_37
+    21300076: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_38
+    21300078: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_39
+    21300080: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_40
+    21300082: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_41
+    21300084: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_42
+    21300086: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_43
+    21300088: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_44
+    21300090: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_45
+    21300092: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_46
+    21300094: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_47
+    21300096: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_48
+    21300098: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_49
+    21300100: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_50
+    21300102: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_51
+    21300104: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_52
+    21300106: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_53
+    21300108: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_54
+    21300110: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_55
+    21300112: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_56
+    21300114: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_57
+    21300116: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_58
+    21300118: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_59
+    21300120: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_60
+    21300122: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_61
+    21300124: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_62
+    21300126: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_63
+    21300128: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_64
+    21300130: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_65
+    21300132: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_66
+    21300134: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_67
+    21300136: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_68
+    21300138: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_69
+    21300140: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_70
+    21300142: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_71
+    21300144: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_72
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1024
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1024
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1024
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1024
+        width: 35
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1024
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1024
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1024
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 920
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 920
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 920
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 920
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 920
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 920
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 920
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 920
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 920
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 920
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 832
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 832
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 832
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 832
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 832
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 832
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 728
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 728
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 728
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 728
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 728
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 728
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 624
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 624
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 624
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 624
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 624
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 624
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 552
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 552
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 552
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 552
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 552
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 552
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 424
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 424
+        width: 24
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 424
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 424
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 424
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 424
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_54
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 424
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 328
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 328
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 328
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 224
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 224
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 46
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 103
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sf1_ryu_palette_edit_sprite_sheet_by_rgmfighter14-d6z6y8a_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
